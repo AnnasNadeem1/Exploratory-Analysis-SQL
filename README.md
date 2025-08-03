@@ -103,7 +103,7 @@ Product-level report with:
    - `gold.dim_customers`
    - `gold.dim_products`
 
-2. Run the queries (available in `project_queries.sql`) in sequence:
+2. Run the queries (available in `Scripts`) in sequence:
    - Exploratory modules
    - Customer and product reports
 
